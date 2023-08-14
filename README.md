@@ -2,5 +2,5 @@ GN
 gg
 Gn
 nt
-2222
+LZ0
 yyyyyy
